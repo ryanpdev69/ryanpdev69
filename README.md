@@ -63,12 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpdev69&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanpdev69&show_icons=true)
-
----
 
 ## 📫 Connect With Me
 
