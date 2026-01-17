@@ -50,7 +50,7 @@
 
 - GitHub: https://github.com/ryanpdev69
 - LinkedIn: https://www.linkedin.com/in/ryan-pinlac-a11742283
-- Portfolio: https://portfolio-ryanpinlac.vercel.app/
+- Portfolio: https://portfolio-ryanpinlac.vercel.app
 
 ---
 
